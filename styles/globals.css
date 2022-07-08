@@ -15,6 +15,7 @@ a {
   box-sizing: border-box;
 }
 .Logo{
+  font-family: "Courier-New";
   position: absolute;
   color: white;
   padding-inline: 5vw;
@@ -23,6 +24,7 @@ a {
 
 }
 .Logo-p{
+  font-family: "Courier-New";
   position: relative;
   font-size: 0.5rem;
   padding: 0;
